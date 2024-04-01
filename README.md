@@ -10,8 +10,9 @@
 <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
 <img style="height:23px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp; 
 
-https://shopsphere.kushalkumarsaha.com/
-      
+- https://shopsphere.rudrakumarmishra.com/
+- https://shopsphere.kushalkumarsaha.com/
+
 `ShopSphere` is an e-commerce multi-vendor full-stack application.
 
 _At present, its in development... stay tuned._ 
